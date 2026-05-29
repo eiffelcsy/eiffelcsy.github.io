@@ -38,6 +38,13 @@ export default defineNuxtConfig({
 
   css: ['~/assets/css/global.css'],
 
+  nitro: {
+    prerender: {
+      crawlLinks: true,
+      routes: ['/'],
+    },
+  },
+
   app: {
     head: {
       title: 'Eiffel Chong — AI researcher',
