@@ -47,11 +47,11 @@ export default defineNuxtConfig({
 
   app: {
     head: {
-      title: 'Eiffel Chong — AI researcher',
+      title: 'Eiffel Chong',
       meta: [
         { charset: 'utf-8' },
         { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-        { name: 'description', content: 'AI researcher working at the intersection of world models, embodied intelligence, and computer vision.' },
+        { name: 'description', content: 'AI researcher interested in world models, embodied intelligence, computer vision and trustworthy AI.' },
       ],
       htmlAttrs: {
         lang: 'en',

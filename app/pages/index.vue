@@ -36,13 +36,13 @@ function padIdx(n: number) {
         <SectionLabel label="~/about" />
         <div data-reveal>
           <p class="lede">
-            I am an aspiring AI researcher working at the intersection of <em>world models</em>,
-            <em>embodied intelligence</em>, and <em>computer vision</em>. I'm interested in how
-            machines learn to predict, imagine, and act in the worlds they inhabit.
+            I am an aspiring AI researcher with interests in <em>world models</em>, <em>embodied intelligence</em>,
+            <em>computer vision</em>, and <em>trustworthy AI</em> — building systems that can perceive, reason,
+            and act reliably in the real world.
           </p>
           <p class="lede">
-            I am currently a final year undergraduate student at Singapore Management University, 
-            where I am pursuing a Bachelor of Science in Information Systems. This website is where 
+            I am currently a final year undergraduate student at <em>Singapore Management University</em>, 
+            where I am pursuing a <a href="https://computing.smu.edu.sg/bsc-information-systems/curriculum" target="_blank" rel="noopener">Bachelor of Science in Information Systems</a>. This website is where 
             I try to make some of my thinking legible — to myself, and to anyone else who is curious. 
           </p>
         </div>
